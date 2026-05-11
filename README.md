@@ -1,5 +1,16 @@
 # 🔴 Reverse TCP Shell - C2 Attack Project
 
+## 📊 Project Files
+
+| File | Description |
+|------|-------------|
+| [csCl400_REVERSE TCP_COMMAND_GROUP_6.pptx](csCl400_REVERSE%20TCP_COMMAND_GROUP_6.pptx) | PowerPoint presentation (10 slides) |
+| [REVERSE_TCP_ATTACK_VIDEO1.mp4](REVERSE_TCP_ATTACK_VIDEO1.mp4) | Attack execution video |
+| [REVERSE_TCP_WIRESHARK_VIDEO2.mp4](REVERSE_TCP_WIRESHARK_VIDEO2.mp4) | Wireshark detection video |
+| [REVERSE_TCP_FIREWALL_VIDEO3.mp4](REVERSE_TCP_FIREWALL_VIDEO3.mp4) | Firewall prevention video |
+
+---
+
 ## 🎥 Evidence Videos
 
 ### 1. Attack - Successful Reverse Shell
